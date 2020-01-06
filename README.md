@@ -4,7 +4,7 @@ In this project, we will employ several supervised algorithms of your choice to 
 # Conclusion
 ___
 
-Here we prepocessed our data, choose the best performing model and did feature selection to filer out important features that can reduce the time taken for training and testing. Random Forest is able to give better results on both accuracy score and Fbeta score therefore, I think this is the appropiate model to choose. we got final accuracy of:
+Here we prepocessed our data, choose the best performing model and did feature selection to filter out important features that can reduce the time taken for training and testing. Random Forest is able to give better results on both accuracy score and Fbeta score therefore, I think this is the appropiate model to choose. we got final accuracy of:
 
 Final Model trained on full data
 Accuracy on testing data: 0.8590
